@@ -1,5 +1,5 @@
-# frontier
-On the horizon of the front-end frontier, a repo emerges
+# Looking for the Answer to the Ultimate Questions of clojurescript Life, the Universe and Everything?
+After 7.5 million years.... A repo emerges.... 
 
 This is a very simple, bare bones clojurescript application using shadow-cljs to hotload code onto `localhost:3000`
 
