@@ -1,0 +1,18 @@
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.classy-class {
+    font-family: Lucida Calligraphy;
+    background-image: linear-gradient(to right, pink,orange,lightgreen,lightblue,indigo,violet);
+    color: white;
+    border: 5px solid black;
+
+
+}
