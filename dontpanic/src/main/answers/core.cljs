@@ -1,7 +1,7 @@
 (ns answers.core
   (:require [reagent.core :as r]))
 
-(defonce app-state (atom {:count 0}))
+(defonce app-state (r/atom {:count 0}))
 
 (defn increment
   [event]
