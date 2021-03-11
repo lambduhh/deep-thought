@@ -6,6 +6,7 @@
 
  :dependencies
  [[reagent "0.9.1"]
+  [re-frame "1.2.0"]
   [cider/cider-nrepl "0.25.6"]]
 
  :dev-http {3000 "public"}
